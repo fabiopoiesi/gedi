@@ -12,6 +12,6 @@ Point cloud patches are extracted, canonicalised with respect to their local ref
 Our descriptors can effectively generalise across different sensor modalities from locally and randomly sampled points.
 The graphs above show the comparison between our descriptors and state-of-the-art descriptors on several indoor and outdoor datasets reconstructed using both RGBD sensors and laser scanners.
 In particular, [3DMatch](https://3dmatch.cs.princeton.edu/) is an indoor dataset captured with RGBD sensors, [ETH](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration) and [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php) are outdoor datasets captured with laser scanners.
-Our descriptors outperform most recent descriptors by a large margin in terms of generalisation, and become the state of the art also in benchmarks where training and testing are performed in the same scenarios.
+Our descriptors outperform most recent descriptors by a large margin in terms of generalisation, and become the state of the art also in benchmarks where training and testing are performed in same scenarios.
 
 [Paper (pdf)]()
