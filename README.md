@@ -1,14 +1,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalisable-and-distinctive-3d-local-deep/point-cloud-registration-on-3dmatch-benchmark)](https://paperswithcode.com/sota/point-cloud-registration-on-3dmatch-benchmark?p=generalisable-and-distinctive-3d-local-deep)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalisable-and-distinctive-3d-local-deep/point-cloud-registration-on-3dmatch-trained)](https://paperswithcode.com/sota/point-cloud-registration-on-3dmatch-trained?p=generalisable-and-distinctive-3d-local-deep)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalisable-and-distinctive-3d-local-deep/point-cloud-registration-on-eth-trained-on)](https://paperswithcode.com/sota/point-cloud-registration-on-eth-trained-on?p=generalisable-and-distinctive-3d-local-deep)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalisable-and-distinctive-3d-local-deep/point-cloud-registration-on-kitti)](https://paperswithcode.com/sota/point-cloud-registration-on-kitti?p=generalisable-and-distinctive-3d-local-deep)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalisable-and-distinctive-3d-local-deep/point-cloud-registration-on-kitti-trained-on)](https://paperswithcode.com/sota/point-cloud-registration-on-kitti-trained-on?p=generalisable-and-distinctive-3d-local-deep)
-
-
 
 # Generalisable and Distinctive (GeDi) 3D local deep descriptors for point cloud registration
 
