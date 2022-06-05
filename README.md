@@ -82,7 +82,7 @@ python demo.py
 The result will look like these (note that results may slightly differ from run to run due to the randomisation of RANSAC).
 
 
-| 3DMatch dataset           | Generalisation ability on ETH dataset           |
+| Before registration           | After registration           |
 |:---------------------------:|:---------------------------:|
 | <img src="resources/demo0.png" width="500"> | <img src="resources/demo1.png" width="500"> |
 
